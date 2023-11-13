@@ -1653,3 +1653,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.11.13-13.30.00:372][251]LogConcertTakeRecorder: Display: Session Client Change: Timeza55 Disconnected.
 [2023.11.13-13.30.00:372][251]LogConcert: Display: User 'TimeSanZ' (Endpoint: 7B5D7A8A4140A0D52707AAA257B7DB71) left Concert session 'gdd-gdd' (Id: 6DD016624CF11838E0BD1981FFD7EFC3, Owner: ngame).
 [2023.11.13-13.30.00:372][251]LogConcert: Display: Synced activity '717' produced by endpoint '7B5D7A8A4140A0D52707AAA257B7DB71': Timeza55 left the session.
+[2023.11.13-13.32.50:024][142]LogSlate: Took 0.008844 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
